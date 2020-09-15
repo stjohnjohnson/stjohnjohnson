@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm St. John Johnson [(pronounced _SinJin_)](https://en.wikipedia.org/wiki/St_John_(name)).
+Hi there 👋.  I'm St. John Johnson [(pronounced _SinJin_)](https://en.wikipedia.org/wiki/St_John_(name)).
 
 <!--
 **stjohnjohnson/stjohnjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
